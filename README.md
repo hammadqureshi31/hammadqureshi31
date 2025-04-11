@@ -2,7 +2,7 @@
 <div align='center'><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=500&color=151CF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Web+Application+Developer;Mobile+Application+Developer+;Entrepreneur;" alt="Typing SVG" /></div>
 
 
-<h3 align="center">A passionate Full-Stack developer from Pakistan</h3>
+<h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
 
 <img align="right" alt="Coding" width="399" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
 
@@ -18,11 +18,10 @@
 
 - 👨‍💻 All of my projects are available at [Github(https://github.com/hammadqureshi31)](Github(https://github.com/hammadqureshi31))
 
-- 💬 Ask me about **ReactJS, NextJs, NodeJs, ExpressJs, MongoDB**
+- 💬 Ask me about **MongoDB, ExpressJs, ReactJs, NodeJs**
 
 - 📫 How to reach me **muhammmadhammadq882@gmail.com**
 
-- 📄 Know about my experiences [https://coral-lesya-93.tiiny.site/](https://coral-lesya-93.tiiny.site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
