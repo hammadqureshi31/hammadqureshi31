@@ -76,7 +76,7 @@ tools:        Postman, Git, Firebase, Supabase, Railway, Render
 
 ## ☁️ Infra & Deployment Workflow
 <p>
-<img src="https://drive.google.com/file/d/127HrXLO_ZWvy8iLLuQRy0f4xj1NqZOkS/view?usp=sharing" />
+<img width="1376" height="768" alt="cicd-pipeline" src="https://github.com/user-attachments/assets/cac50c6b-50a2-4d1f-a688-bb64fa7b6fd8" />
 </p>
 
 Recent focus: staged, backward-compatible schema migrations and batched background processing to ship new database fields on large production datasets with zero downtime.
