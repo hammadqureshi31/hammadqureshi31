@@ -25,7 +25,7 @@
 
 ```bash
 $ whoami
-> Full Stack / Backend Software Engineer — 1.5+ years in production
+> Full Stack / Backend Software Engineer
 
 $ cat focus.txt
 > Backend architecture · Multi-tenant SaaS · Cloud infrastructure · System design
@@ -34,18 +34,29 @@ $ cat currently.txt
 > Deepening DevOps, Kubernetes, and distributed systems fundamentals
 ```
 
-At **Innova360**, I build and operate a cloud-based, multi-tenant Inventory Management SaaS — designing secure REST APIs, implementing RBAC, automating tenant provisioning, and running production deployments on AWS with Docker, GitHub Actions, and Blue-Green rollouts.
+At **Innova360**, I contributed to a cloud-based multi-tenant Inventory Management SaaS platform where I designed secure RESTful APIs, implemented RBAC, automated tenant provisioning workflows, and supported production deployments on AWS using Docker, GitHub Actions, and Blue-Green deployment strategies.
 
 ## Career Focus
 
-✔ Backend Engineering &nbsp;&nbsp; ✔ Full Stack Development &nbsp;&nbsp; ✔ Cloud Infrastructure (AWS) &nbsp;&nbsp; ✔ DevOps & CI/CD &nbsp;&nbsp; ✔ System Design
+✔ Backend Engineering &nbsp;&nbsp; ✔ Cloud Infrastructure (AWS) &nbsp;&nbsp; ✔ DevOps & CI/CD &nbsp;&nbsp; ✔ Full Stack Development &nbsp;&nbsp; ✔ System Design
+
+---
+
+## 🧭 Engineering Principles
+
+- Clean Architecture
+- Secure by Design
+- Automation First
+- Production Reliability
+- Backward-Compatible Migrations
+- Continuous Learning
 
 ---
 
 ## ⚙️ Tech Snapshot
 
 ```yaml
-languages:    JavaScript, TypeScript, Python, Java, C++, Linux Debian/Ubuntu
+languages:    JavaScript, TypeScript, Python, Java, C++, Linux (Ubuntu/Debian)
 frontend:     React, Next.js, Redux Toolkit, Zustand, Tailwind CSS
 backend:      NestJS, Node.js, Express.js, REST APIs, WebSockets, JWT / OAuth2, RBAC
 databases:    PostgreSQL, Prisma ORM, MongoDB, Redis, MySQL
@@ -74,23 +85,34 @@ tools:        Postman, Git, Firebase, Supabase, Railway, Render
 
 ---
 
+## 📚 Currently Learning
+
+- Kubernetes
+- Infrastructure as Code (Terraform)
+- Observability (Prometheus & Grafana)
+- Distributed Systems
+- Advanced PostgreSQL
+- AWS Architecture
+
+---
+
 ## ☁️ Infra & Deployment Workflow
 <p>
 <img width="1376" height="768" alt="cicd_pipeline-github-readme" src="https://github.com/user-attachments/assets/be784dc6-719d-4212-8a62-d3dfe932b631" />
 </p>
 
-Recent focus: staged, backward-compatible schema migrations and batched background processing to ship new database fields on large production datasets with zero downtime.
+Recent engineering focus: Designing backward-compatible database migrations and batched background processing strategies to safely evolve large production datasets with minimal operational impact.
 
 ---
 
 ## 🚀 Featured Projects
 
 **Accurack SaaS**
-Production-grade multi-tenant inventory management platform.
+Cloud-native multi-tenant Inventory Management platform supporting isolated tenant databases, automated onboarding workflows, secure Production REST APIs, RBAC authorization, Docker-based deployments, and AWS infrastructure..
 `React` `NestJS` `PostgreSQL` `Prisma` `Docker` `CI/CD` `GitHub Actions` `Safe Schema Migration` `AWS`
 
 **IMS Backend**
-RESTful backend APIs with RBAC, Docker, CI/CD, and AWS deployment.
+Production REST backend APIs with RBAC, Automated CI/CD Pipelines and Containerized Deployments on AWS.
 `NestJS` `PostgreSQL` `Docker` `CI/CD` `AWS`
 
 **TextUp — Real-Time Chat Application**
