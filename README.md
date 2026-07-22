@@ -1,9 +1,17 @@
 <h1 align="center">Muhammad Hammad Qureshi</h1>
-<h3 align="center">Full Stack Software Engineer — Backend Systems • Cloud-Native Applications • Scalable SaaS</h3>
+<h3 align="center">Full Stack Software Engineer — Backend Systems • Cloud Infrastructure • Scalable SaaS</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=151CF7&center=true&vCenter=true&width=520&lines=Full+Stack+Software+Engineer;Backend+%26+API+Engineering;Cloud+Infrastructure+%26+DevOps;Building+Scalable+Multi-Tenant+SaaS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C2A8&center=true&vCenter=true&width=560&lines=Backend+%26+API+Engineering;Cloud+Infrastructure+(AWS)%2C+Docker%2C+CI%2FCD;Designing+Multi-Tenant+SaaS+Systems;Blue-Green+Deployments+%26+System+Design" alt="Typing SVG" />
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Containerized-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deployment-Blue--Green-2ea44f?style=flat-square" />
+  <img src="https://img.shields.io/badge/Reverse_Proxy-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+</p>
 
 <p align="center">
   <a href="mailto:muhammadhammadq882@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -13,53 +21,76 @@
 
 ---
 
-## About Me
+### `whoami`
 
-I'm a Full Stack Software Engineer with 1.5+ years of professional experience building and deploying production-grade, multi-tenant SaaS applications with **React, TypeScript, NestJS, PostgreSQL, Prisma ORM,** and **AWS**.
+```bash
+$ whoami
+> Full Stack / Backend Software Engineer — 1.5+ years in production
 
-At **Innova360**, I've worked on a cloud-based multi-tenant Inventory Management platform — designing secure RESTful APIs, implementing RBAC and authentication, automating tenant provisioning workflows, and managing production deployments with Docker, GitHub Actions, and AWS using Blue-Green deployment strategies.
+$ cat focus.txt
+> Backend architecture · Multi-tenant SaaS · Cloud infrastructure · System design
 
-I'm currently deepening my expertise in backend engineering, cloud infrastructure, and system design.
+$ cat currently.txt
+> Deepening DevOps, Kubernetes, and distributed systems fundamentals
+```
+
+At **Innova360**, I build and operate a cloud-based, multi-tenant Inventory Management SaaS — designing secure REST APIs, implementing RBAC, automating tenant provisioning, and running production deployments on AWS with Docker, GitHub Actions, and Blue-Green rollouts.
 
 ## Career Focus
 
 ✔ Backend Engineering &nbsp;&nbsp; ✔ Full Stack Development &nbsp;&nbsp; ✔ Cloud Infrastructure (AWS) &nbsp;&nbsp; ✔ DevOps & CI/CD &nbsp;&nbsp; ✔ System Design
 
-## Currently
+---
 
-- Building scalable backend systems and multi-tenant architectures
-- Learning DevOps, Cloud Engineering, and Kubernetes
-- Improving system design and distributed systems fundamentals
+## ⚙️ Tech Snapshot
+
+```yaml
+languages:    JavaScript, TypeScript, Python, Java, C++, Linux Debian/Ubuntu
+frontend:     React, Next.js, Redux Toolkit, Zustand, Tailwind CSS
+backend:      NestJS, Node.js, Express.js, REST APIs, WebSockets, JWT / OAuth2, RBAC
+databases:    PostgreSQL, Prisma ORM, MongoDB, Redis, MySQL
+cloud:        AWS (EC2, RDS Aurora, S3, Route 53, Amplify, VPC)
+devops:       Docker, Docker Compose, GitHub Actions, Nginx, CI/CD, Blue-Green Deploy
+tools:        Postman, Git, Firebase, Supabase, Railway, Render
+```
+
+<p>
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
 
 ---
 
-## Tech Stack
+## ☁️ Infra & Deployment Workflow
+<p>
+<img src="https://drive.google.com/file/d/127HrXLO_ZWvy8iLLuQRy0f4xj1NqZOkS/view?usp=sharing" />
+</p>
 
-**Languages**
-<p> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> </p>
-
-**Frontend**
-<p> <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> </p>
-
-**Backend**
-<p> <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/-REST_APIs-blue?style=flat-square" /> <img src="https://img.shields.io/badge/-WebSockets-black?style=flat-square" /> </p>
-
-**Databases**
-<p> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" /> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> </p>
-
-**Cloud & DevOps**
-<p> <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" /> <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> </p>
+Recent focus: staged, backward-compatible schema migrations and batched background processing to ship new database fields on large production datasets with zero downtime.
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 **Accurack SaaS**
-Production-grade multi-tenant inventory management platform built with React, NestJS, PostgreSQL, Prisma ORM, and AWS.
-`React` `NestJS` `PostgreSQL` `Prisma` `Docker` `CI/CD` `GitHub Actions` `AWS`
+Production-grade multi-tenant inventory management platform.
+`React` `NestJS` `PostgreSQL` `Prisma` `Docker` `CI/CD` `GitHub Actions` `Safe Schema Migration` `AWS`
 
 **IMS Backend**
-RESTful backend APIs with role-based access control, PostgreSQL, Docker, CI/CD, and AWS deployment.
+RESTful backend APIs with RBAC, Docker, CI/CD, and AWS deployment.
 `NestJS` `PostgreSQL` `Docker` `CI/CD` `AWS`
 
 **TextUp — Real-Time Chat Application**
@@ -67,7 +98,7 @@ Secure authentication, real-time messaging, and file sharing in group chats.
 `React` `Node.js` `WebSockets`
 
 **Dawn-2-Dusk-Blogs**
-MERN stack blogging platform with role-based signup (Admin/User) and a full admin dashboard for managing users, posts, and comments.
+MERN blogging platform with role-based signup and a full admin dashboard.
 `MongoDB` `Express` `React` `Node.js`
 
 **The Gentry House**
@@ -76,18 +107,18 @@ Business website built with Next.js, optimized for performance and SEO.
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hammadqureshi31&show_icons=true&locale=en&count_private=true&theme=default" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hammadqureshi31&show_icons=true&locale=en&layout=compact&theme=default" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hammadqureshi31&show_icons=true&locale=en&count_private=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hammadqureshi31&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="165" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammadqureshi31&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammadqureshi31&theme=tokyonight" />
 </p>
 
 ---
 
-## Connect
+## 📡 Connect
 
 📧 [muhammadhammadq882@gmail.com](mailto:muhammadhammadq882@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/muhammad-hammad-qureshi-2843a5307/) &nbsp;|&nbsp; 🖥️ [GitHub](https://github.com/hammadqureshi31)
