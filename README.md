@@ -108,13 +108,13 @@ Business website built with Next.js, optimized for performance and SEO.
 ---
 
 ## 📊 GitHub Stats
-
+ 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hammadqureshi31&show_icons=true&locale=en&count_private=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hammadqureshi31&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=hammadqureshi31&show_icons=true&locale=en&count_private=true&theme=tokyonight" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=hammadqureshi31&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="165" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammadqureshi31&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=hammadqureshi31&theme=tokyonight" />
 </p>
 
 ---
