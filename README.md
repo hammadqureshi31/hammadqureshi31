@@ -1,56 +1,93 @@
-<h1 align="center">Hi 👋, I'm Muhammad Hammad Qureshi</h1>
-<div align='center'><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=500&color=151CF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Web+Application+Developer;Mobile+Application+Developer+;Entrepreneur;" alt="Typing SVG" /></div>
+<h1 align="center">Muhammad Hammad Qureshi</h1>
+<h3 align="center">Full Stack Software Engineer — Backend Systems • Cloud-Native Applications • Scalable SaaS</h3>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=151CF7&center=true&vCenter=true&width=520&lines=Full+Stack+Software+Engineer;Backend+%26+API+Engineering;Cloud+Infrastructure+%26+DevOps;Building+Scalable+Multi-Tenant+SaaS" alt="Typing SVG" />
+</div>
 
-<h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
-
-<img align="right" alt="Coding" width="399" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
-
-
-
-- 🔭 I’m currently working on **MERN Stack**
-
-- 🌱 I’m currently learning **React-Native, System Design**
-
-- 👯 I’m looking to collaborate on **Open-Source Projects**
-
-- 🤝 I’m looking for help with **Open-Source Projects**
-
-- 👨‍💻 All of my projects are available at [Github(https://github.com/hammadqureshi31)](Github(https://github.com/hammadqureshi31))
-
-- 💬 Ask me about **MongoDB, ExpressJs, ReactJs, NodeJs**
-
-- 📫 How to reach me **muhammmadhammadq882@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aqib owais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aqib owais" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
-
-<h2> GitHub Statistics :zap: :
-	<h2 />
-	<br>
-	<p align="center">
-		<img
-			src="https://github-readme-stats.vercel.app/api/top-langs?username=hammadqureshi31&show_icons=true&locale=en&layout=compact&count_private=true&theme=outrun" /><br>
-	
 <p align="center">
-		
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hammadqureshi31&show_icons=true&locale=en&count_private=true&theme=outrun" />
-<br> <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hammadqureshi31&theme=outrun" />
-<br> <br>
-<img src="https://github-profile-trophy.vercel.app/?username=hammadqureshi31&theme=algolia&no-frame=true&column=-1" />
+  <a href="mailto:muhammadhammadq882@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/muhammad-hammad-qureshi-2843a5307/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/hammadqureshi31"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
-</br>
+---
 
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
+## About Me
 
-</br>
+I'm a Full Stack Software Engineer with 1.5+ years of professional experience building and deploying production-grade, multi-tenant SaaS applications with **React, TypeScript, NestJS, PostgreSQL, Prisma ORM,** and **AWS**.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hammadqureshi31&label=Profile%20views&color=0e75b6&style=flat" alt="hammadqureshi31" /> </p>
+At **Innova360**, I've worked on a cloud-based multi-tenant Inventory Management platform — designing secure RESTful APIs, implementing RBAC and authentication, automating tenant provisioning workflows, and managing production deployments with Docker, GitHub Actions, and AWS using Blue-Green deployment strategies.
+
+I'm currently deepening my expertise in backend engineering, cloud infrastructure, and system design.
+
+## Career Focus
+
+✔ Backend Engineering &nbsp;&nbsp; ✔ Full Stack Development &nbsp;&nbsp; ✔ Cloud Infrastructure (AWS) &nbsp;&nbsp; ✔ DevOps & CI/CD &nbsp;&nbsp; ✔ System Design
+
+## Currently
+
+- Building scalable backend systems and multi-tenant architectures
+- Learning DevOps, Cloud Engineering, and Kubernetes
+- Improving system design and distributed systems fundamentals
+
+---
+
+## Tech Stack
+
+**Languages**
+<p> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> </p>
+
+**Frontend**
+<p> <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> </p>
+
+**Backend**
+<p> <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/-REST_APIs-blue?style=flat-square" /> <img src="https://img.shields.io/badge/-WebSockets-black?style=flat-square" /> </p>
+
+**Databases**
+<p> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" /> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> </p>
+
+**Cloud & DevOps**
+<p> <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" /> <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> </p>
+
+---
+
+## Featured Projects
+
+**Accurack SaaS**
+Production-grade multi-tenant inventory management platform built with React, NestJS, PostgreSQL, Prisma ORM, and AWS.
+`React` `NestJS` `PostgreSQL` `Prisma` `Docker` `CI/CD` `GitHub Actions` `AWS`
+
+**IMS Backend**
+RESTful backend APIs with role-based access control, PostgreSQL, Docker, CI/CD, and AWS deployment.
+`NestJS` `PostgreSQL` `Docker` `CI/CD` `AWS`
+
+**TextUp — Real-Time Chat Application**
+Secure authentication, real-time messaging, and file sharing in group chats.
+`React` `Node.js` `WebSockets`
+
+**Dawn-2-Dusk-Blogs**
+MERN stack blogging platform with role-based signup (Admin/User) and a full admin dashboard for managing users, posts, and comments.
+`MongoDB` `Express` `React` `Node.js`
+
+**The Gentry House**
+Business website built with Next.js, optimized for performance and SEO.
+`Next.js` `SEO` `Performance`
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hammadqureshi31&show_icons=true&locale=en&count_private=true&theme=default" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hammadqureshi31&show_icons=true&locale=en&layout=compact&theme=default" height="165" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammadqureshi31&theme=default" />
+</p>
+
+---
+
+## Connect
+
+📧 [muhammadhammadq882@gmail.com](mailto:muhammadhammadq882@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/muhammad-hammad-qureshi-2843a5307/) &nbsp;|&nbsp; 🖥️ [GitHub](https://github.com/hammadqureshi31)
