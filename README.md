@@ -1,146 +1,115 @@
-<h1 align="center">Muhammad Hammad Qureshi</h1>
-<h3 align="center">Full Stack Software Engineer — Backend Systems • Cloud Infrastructure • Scalable SaaS</h3>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C2A8&center=true&vCenter=true&width=560&lines=Backend+%26+API+Engineering;Cloud+Infrastructure+(AWS)%2C+Docker%2C+CI%2FCD;Designing+Multi-Tenant+SaaS+Systems;Blue-Green+Deployments+%26+System+Design" alt="Typing SVG" />
+
+# Muhammad Hammad Qureshi
+
+### DevOps / Cloud Engineer
+
+Software Engineer with production experience, focused on cloud infrastructure, Kubernetes, CI/CD, DevSecOps, and observability.
+
+[![Email](https://img.shields.io/badge/Email-muhammadhammadq882%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadhammadq882@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammad--hammad--qureshi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hammad-qureshi-mhq)
+[![GitHub](https://img.shields.io/badge/GitHub-hammadqureshi31-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hammadqureshi31)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Site-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://hammadqureshi31.github.io/muhammadhammadqureshi/)
+
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Containerized-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deployment-Blue--Green-2ea44f?style=flat-square" />
-  <img src="https://img.shields.io/badge/Reverse_Proxy-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-</p>
+---
 
-<p align="center">
-  <a href="mailto:muhammadhammadq882@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/muhammad-hammad-qureshi-2843a5307/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/hammadqureshi31"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" /></a>
-</p>
+## About
+
+I have a software-engineering background — building and maintaining backend and web applications — and my work has since moved into DevOps and cloud engineering. At **Innova360**, my responsibilities as a Software Engineer extended into AWS infrastructure, CI/CD, blue-green deployment automation, database operations, and production observability.
+
+Alongside that production experience, I build and document independent projects that go deeper into specific parts of the DevOps stack: provisioning cloud infrastructure with Terraform, operating Kubernetes on Amazon EKS, securing CI/CD pipelines, and automating multi-OS server configuration. A consistent thread across all of it is **deliberately breaking things and recovering them** — I'd rather understand why a system fails than only show that it can succeed once.
 
 ---
 
-### `whoami`
+## Technical Focus
 
-```bash
-$ whoami
-> Full Stack / Backend Software Engineer
+**Cloud**
+`AWS` `EC2` `EKS` `ECR` `RDS` `VPC` `IAM` `S3` `ALB`
 
-$ cat focus.txt
-> Backend architecture · Multi-tenant SaaS · Cloud infrastructure · System design
+**Containers & Orchestration**
+`Docker` `Kubernetes` `Docker Compose` `Kind`
 
-$ cat currently.txt
-> Deepening DevOps, Kubernetes, and distributed systems fundamentals
-```
+**Infrastructure & Automation**
+`Terraform` `Ansible` `Linux` `Bash`
 
-At **Innova360**, I contributed to a cloud-based multi-tenant Inventory Management SaaS platform where I designed secure RESTful APIs, implemented RBAC, automated tenant provisioning workflows, and supported production deployments on AWS using Docker, GitHub Actions, and Blue-Green deployment strategies.
+**CI/CD**
+`GitHub Actions` `Jenkins`
 
-## Career Focus
+**DevSecOps**
+`Trivy` `Gitleaks` `Semgrep` `SonarQube` `OWASP Dependency-Check` `Syft (SBOM)` `Cosign`
 
-✔ Backend Engineering &nbsp;&nbsp; ✔ Cloud Infrastructure (AWS) &nbsp;&nbsp; ✔ DevOps & CI/CD &nbsp;&nbsp; ✔ Full Stack Development &nbsp;&nbsp; ✔ System Design
+**Observability**
+`Prometheus` `Grafana` `Loki`
 
----
-
-## 🧭 Engineering Principles
-
-- Clean Architecture
-- Secure by Design
-- Automation First
-- Production Reliability
-- Backward-Compatible Migrations
-- Continuous Learning
+**Development**
+`TypeScript` `Node.js` `NestJS` `Python` `PostgreSQL` `Prisma`
 
 ---
 
-## ⚙️ Tech Snapshot
+## Selected DevOps / Cloud Projects
 
-```yaml
-languages:    JavaScript, TypeScript, Python, Java, C++, Linux (Ubuntu/Debian)
-frontend:     React, Next.js, Redux Toolkit, Zustand, Tailwind CSS
-backend:      NestJS, Node.js, Express.js, REST APIs, WebSockets, JWT / OAuth2, RBAC
-databases:    PostgreSQL, Prisma ORM, MongoDB, Redis, MySQL
-cloud:        AWS (EC2, RDS Aurora, S3, Route 53, Amplify, VPC)
-devops:       Docker, Docker Compose, GitHub Actions, Nginx, CI/CD, Blue-Green Deploy
-tools:        Postman, Git, Firebase, Supabase, Railway, Render
-```
+### [OpenAI Chatbot on Amazon EKS](https://github.com/hammadqureshi31/openai-chatbot-eks)
+A production-style deployment of a Next.js chatbot onto Amazon EKS — infrastructure provisioned with Terraform and delivered through a Jenkins CI/CD pipeline with integrated security gates.
 
-<p>
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-</p>
+`Terraform` `AWS EKS` `Jenkins` `Trivy` `SonarQube` `OWASP Dependency-Check` `Kubernetes RBAC`
 
----
+- Multi-AZ EKS cluster with private worker nodes, provisioned entirely through Terraform (VPC + EKS modules)
+- Jenkins pipeline enforcing quality gates and vulnerability scanning before any image reaches EKS, reducing findings from 36 to 0 HIGH/CRITICAL by fixing root causes rather than suppressing them
+- Jenkins' cluster access redesigned from `cluster-admin` down to a namespace-scoped, least-privilege Kubernetes Role
+- Automated rollback validated against a real, deliberately triggered failed rollout (`ImagePullBackOff`), with the pipeline still correctly reporting the build as failed after recovery
 
-## 📚 Currently Learning
+### [Cloud-Native Monitoring on Kubernetes & EKS](https://github.com/hammadqureshi31/cloud-native-monitoring)
+A monitored Flask workload taken from a local Kind cluster to Amazon EKS, with Prometheus/Grafana observability, HPA autoscaling, an ALB ingress path, and Kubernetes security controls.
 
-- Kubernetes
-- Infrastructure as Code (Terraform)
-- Observability (Prometheus & Grafana)
-- Distributed Systems
-- Advanced PostgreSQL
-- AWS Architecture
+`Kubernetes` `AWS EKS` `Prometheus` `Grafana` `HPA` `RBAC` `NetworkPolicy` `EKS Pod Identity`
 
----
+- Full observability pipeline (Prometheus, ServiceMonitor, Grafana) separate from the Metrics Server → HPA autoscaling loop (2 → 5 replicas under load)
+- AWS Load Balancer Controller authenticated via EKS Pod Identity rather than static AWS credentials
+- RBAC, NetworkPolicy, and PodDisruptionBudget applied and actively tested, not just configured
+- 17 deliberately injected failures diagnosed and recovered — including a node-drain-vs-PDB scheduling incident and a NetworkPolicy that was applied but silently unenforced
 
-## ☁️ Infra & Deployment Workflow
-<p>
-<img width="1376" height="768" alt="cicd_pipeline-github-readme" src="https://github.com/user-attachments/assets/be784dc6-719d-4212-8a62-d3dfe932b631" />
-</p>
+### [Supply Chain Security Lab](https://github.com/hammadqureshi31/supply-chain-security)
+A DevSecOps pipeline that secures a Node.js container from source to signed artifact — secret scanning, SCA, SAST, container scanning, SBOM generation, and keyless signing, fully automated in GitHub Actions.
 
-Recent engineering focus: Designing backward-compatible database migrations and batched background processing strategies to safely evolve large production datasets with minimal operational impact.
+`GitHub Actions` `Trivy` `Gitleaks` `Semgrep` `Syft` `Cosign` `GHCR`
+
+- Sequential security gates (Gitleaks → npm audit → Semgrep → Trivy) block publication on any failure
+- Investigated a discrepancy between a clean `npm audit` and 4 HIGH Trivy findings, traced them to unused base-image tooling, and removed it — reaching 0 HIGH/CRITICAL rather than suppressing the scan
+- SPDX SBOM generated with Syft and published as a build artifact for every release
+- Images signed with Cosign using GitHub OIDC identity — no long-lived signing key stored in CI
+
+### [Cross-OS Infrastructure Automation](https://github.com/hammadqureshi31/cross-os-automation)
+Reusable AWS infrastructure provisioning with Terraform paired with cross-platform server configuration in Ansible, targeting both Ubuntu and Amazon Linux.
+
+`Terraform` `Ansible` `AWS` `Ubuntu` `Amazon Linux`
+
+- Modular Terraform (VPC, EC2, Security Group modules) across separate dev/staging environments with encrypted, locked remote state in S3
+- Ansible's AWS EC2 dynamic inventory discovers infrastructure by tag — no hand-maintained host lists
+- One Ansible role configures both Ubuntu (`apt`) and Amazon Linux (`dnf`) hosts to the same desired state
+- Idempotency and failure/recovery explicitly validated, including a state-safe Terraform refactor using `moved` blocks
 
 ---
 
-## 🚀 Featured Projects
+## Production Engineering — Innova360
 
-**Accurack SaaS**
-Cloud-native multi-tenant Inventory Management platform supporting isolated tenant databases, automated onboarding workflows, secure Production REST APIs, RBAC authorization, Docker-based deployments, and AWS infrastructure..
-`React` `NestJS` `PostgreSQL` `Prisma` `Docker` `CI/CD` `GitHub Actions` `Safe Schema Migration` `AWS`
+Separate from the projects above, this reflects production experience as a **Software Engineer at Innova360**, where responsibilities extended into infrastructure, deployment automation, and operations for a live multi-tenant SaaS backend.
 
-**IMS Backend**
-Production REST backend APIs with RBAC, Automated CI/CD Pipelines and Containerized Deployments on AWS.
-`NestJS` `PostgreSQL` `Docker` `CI/CD` `AWS`
-
-**TextUp — Real-Time Chat Application**
-Secure authentication, real-time messaging, and file sharing in group chats.
-`React` `Node.js` `WebSockets`
-
-**Dawn-2-Dusk-Blogs**
-MERN blogging platform with role-based signup and a full admin dashboard.
-`MongoDB` `Express` `React` `Node.js`
-
-**The Gentry House**
-Business website built with Next.js, optimized for performance and SEO.
-`Next.js` `SEO` `Performance`
+- **CI/CD & deployment:** GitHub Actions pipeline building and versioning Docker images (timestamp + Git SHA) to Amazon ECR, deployed to EC2 through a blue-green workflow with health-gated traffic switching via Nginx and automated rollback on failure
+- **Database operations:** PostgreSQL with a database-per-tenant model, each tenant on a dedicated role; Prisma migrations run through a validate → backup → migrate → verify sequence, with migration troubleshooting and per-tenant diagnostics
+- **Observability:** contributed to a Prometheus/Grafana/Loki stack used for real incident investigation — metrics to spot abnormal behavior, logs to trace root cause
+- **Automation:** Bash tooling for deployment orchestration, database backup/recovery, tenant provisioning, and diagnostics, designed around explicit validation and failure handling rather than ad-hoc scripts
 
 ---
 
-## 📊 GitHub Stats
- 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=hammadqureshi31&show_icons=true&locale=en&count_private=true&theme=tokyonight" height="165" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=hammadqureshi31&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="165" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hammadqureshi31&theme=tokyonight" />
-</p>
+## Engineering Principles
 
----
-
-## 📡 Connect
-
-📧 [muhammadhammadq882@gmail.com](mailto:muhammadhammadq882@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/muhammad-hammad-qureshi-2843a5307/) &nbsp;|&nbsp; 🖥️ [GitHub](https://github.com/hammadqureshi31)
+| Principle | In Practice |
+|---|---|
+| **Security is part of delivery** | Scanning and gating happen before an artifact reaches a registry or cluster, not after |
+| **Least privilege by default** | CI/CD and workload permissions are scoped to what's actually required, iterated down from broad defaults |
+| **Infrastructure should be reproducible** | Terraform and Ansible define infrastructure and configuration instead of manual changes |
+| **Deployments need verification, not assumption** | Rollout status and health checks are treated as the real signal of success, not `apply` succeeding |
+| **Failures should be tested, not just handled in theory** | Recovery paths (rollback, backup restore) are validated against real, deliberately triggered failures |
+| **Systems should be observable** | Metrics and logs are built in from the start, not added after an incident |
