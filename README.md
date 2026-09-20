@@ -17,7 +17,7 @@ Software Engineer with production experience, focused on cloud infrastructure, K
 
 ## About
 
-I have a software-engineering background — building and maintaining backend and web applications — and my work has since moved into DevOps and cloud engineering. At **Innova360**, my responsibilities as a Software Engineer extended into AWS infrastructure, CI/CD, blue-green deployment automation, database operations, and production observability.
+I have a software-engineering background — building and maintaining backend and web applications — with professional experience spanning AWS infrastructure, CI/CD, deployment automation, database operations, and production observability.
 
 Alongside that production experience, I build and document independent projects that go deeper into specific parts of the DevOps stack: provisioning cloud infrastructure with Terraform, operating Kubernetes on Amazon EKS, securing CI/CD pipelines, and automating multi-OS server configuration. A consistent thread across all of it is **deliberately breaking things and recovering them** — I'd rather understand why a system fails than only show that it can succeed once.
 
